@@ -2,7 +2,7 @@
 	"name" : "FirebenderFlipside",
 	"version" : 1,
 	"creationdate" : 3640791006,
-	"modificationdate" : 3640791640,
+	"modificationdate" : 3640791924,
 	"viewrect" : [ 33.0, 76.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -13,23 +13,13 @@
 			"Firebender.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
-				"toplevel" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Documents/Max 7/Projects Max",
-					"projectrelativepath" : "../../../Projects Max"
-				}
-
+				"toplevel" : 1
 			}
 ,
 			"Kinect2PolyUserJointSend.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
-				"toplevel" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Documents/Max 7/Projects Max/Kinect",
-					"projectrelativepath" : "../../../Projects Max/Kinect"
-				}
-
+				"toplevel" : 1
 			}
 
 		}
